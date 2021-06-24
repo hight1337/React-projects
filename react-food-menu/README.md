@@ -1,1 +1,1 @@
-Click on this link to see the app https://my-react-food-menu.netlify.app/
+Click on this link to view the app https://my-react-food-menu.netlify.app/
